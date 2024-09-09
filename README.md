@@ -6,6 +6,8 @@ This repository contains a series of SQL queries designed to analyze various asp
 
 AdventureWorks is a fictional company database used for demo purposes in Microsoft SQL Server. This analysis extracts insights related to customers, orders, products, and revenue, providing a comprehensive look into the company's sales performance.
 
+You can download and install the AdventureWorks database from the official Microsoft documentation: [AdventureWorks Installation Guide](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
+
 ## Features
 
 - Retrieve total customer count and order details.
@@ -28,7 +30,7 @@ AdventureWorks is a fictional company database used for demo purposes in Microso
 ## Getting Started
 
 To run these queries, you will need:
-- **Microsoft SQL Server** with the **AdventureWorks** database installed.
+- **Microsoft SQL Server** with the **AdventureWorks** database installed. You can follow the official installation instructions [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
 
 Clone this repository and use the provided SQL script to run the queries in your SQL Server environment.
 
